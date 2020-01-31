@@ -1,4 +1,4 @@
-# *These projects are protected by a confidentiality agreement to avoid plagerism. To see the code, please contact me and I will share the code privately.*
+# *These projects are protected by a confidentiality agreement to avoid plagerism. To see the code, please contact me and I will share the code privately. The project requirements are attached.*
 
 # Intro to Computer Science Course-Projects
 Course projects that used the language Python
